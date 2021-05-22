@@ -44,6 +44,7 @@ If there are edges like (  v1,v2 ) , ( v2 ,v3 ) , and (v3 ,v1 )  then it forms a
 
 ## Instructions to run the code
 
+- Please keep "chatLogs" folder(folder as it is,not files) in the current folder to run the code.You will find this folder in "Dataset" folder of this repo.
 - Open terminal in same folder and run this command :point_right: $ make
 - To clean the ouput files run this command :point_right: $ make clean
  
